@@ -1,0 +1,49 @@
+#header {
+    float: left;
+    margin: 0;
+}
+
+#nav {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 20px;
+}
+
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#About {
+    display: block;
+    padding-top: 45px;
+}
+
+.form{
+    display:block;
+}
+
+.img {
+    height: 250px;
+    width: 300px;
+}
+
+#Head {
+    position: absolute;
+    width: 100%;
+    background-color: #b7fdff;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.html {
+    margin:0;
+}
+
+.rift {
+  float: left;
+  height: 400px;
+  width: 500px;
+}
